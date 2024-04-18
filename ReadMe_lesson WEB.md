@@ -21,6 +21,8 @@ https (Hypertext Transport Protocol Secure)
 
 Решение:
 
+Стартовая страница : Screenshot_02_Yandex_Structure0.png
+
 При использовании поисковика Yahoo.com структура сайта yandex.by:
 - Игры
 - Карты
